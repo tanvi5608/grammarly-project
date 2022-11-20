@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/grammarly-project/static/css/main.bdf5cf8e.css",
+    "main.js": "/grammarly-project/static/js/main.80a8c1aa.js",
+    "static/js/496.9aa65fc2.chunk.js": "/grammarly-project/static/js/496.9aa65fc2.chunk.js",
+    "static/media/swoosh_atf.png": "/grammarly-project/static/media/swoosh_atf.f6044d4ecaf5e4a9a537.png",
+    "static/media/slide1-small.svg": "/grammarly-project/static/media/slide1-small.d2416f247748021272209cbadcb8807a.svg",
+    "static/media/slide1-big.svg": "/grammarly-project/static/media/slide1-big.655eccbff4e4146c32c2b606fccab68b.svg",
+    "static/media/slide2-big.svg": "/grammarly-project/static/media/slide2-big.3ae54aab15261add9277a6b14f7f5ab7.svg",
+    "static/media/slide2-small.svg": "/grammarly-project/static/media/slide2-small.7b689c5e1708616b4610da38ef82516d.svg",
+    "static/media/slide4-small.svg": "/grammarly-project/static/media/slide4-small.97b53bb0e8a07eda5148b215e73fd637.svg",
+    "static/media/slide3-big.svg": "/grammarly-project/static/media/slide3-big.02c55be9df3dbbf5aa488abc81bc3c55.svg",
+    "static/media/slide4-big.svg": "/grammarly-project/static/media/slide4-big.99fe2ff1bbad7f2bfacb697d582fae03.svg",
+    "static/media/slide3-small.svg": "/grammarly-project/static/media/slide3-small.c57ae55de14916d62252f2f8c752da92.svg",
+    "index.html": "/grammarly-project/index.html",
+    "static/media/checkmark.svg": "/grammarly-project/static/media/checkmark.e4b270fc21827d78043e.svg",
+    "main.bdf5cf8e.css.map": "/grammarly-project/static/css/main.bdf5cf8e.css.map",
+    "main.80a8c1aa.js.map": "/grammarly-project/static/js/main.80a8c1aa.js.map",
+    "496.9aa65fc2.chunk.js.map": "/grammarly-project/static/js/496.9aa65fc2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bdf5cf8e.css",
+    "static/js/main.80a8c1aa.js"
+  ]
+}
